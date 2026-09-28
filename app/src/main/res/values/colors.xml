@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background colors -->
+    <color name="bg_primary">#0F1117</color>
+    <color name="bg_card">#1A1D27</color>
+    <color name="bg_elevated">#22263A</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#F0F2FF</color>
+    <color name="text_secondary">#8B90A8</color>
+    <color name="text_hint">#555C7A</color>
+
+    <!-- Accent — electric blue/violet -->
+    <color name="accent">#7B68EE</color>
+    <color name="accent_light">#A099F8</color>
+
+    <!-- Divider -->
+    <color name="divider">#252938</color>
+
+    <!-- Switch colors -->
+    <color name="switch_track_on">#3D3780</color>
+    <color name="switch_track_off">#2A2D40</color>
+    <color name="switch_thumb_on">#7B68EE</color>
+    <color name="switch_thumb_off">#555C7A</color>
+</resources>

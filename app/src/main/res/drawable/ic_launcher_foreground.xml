@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher foreground: "ZX" lettering in accent violet -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background fill -->
+    <path
+        android:fillColor="#1A1D27"
+        android:pathData="M0,0 L108,0 L108,108 L0,108 Z"/>
+
+    <!-- "Z" letterform -->
+    <path
+        android:fillColor="#7B68EE"
+        android:pathData="
+            M22,30 L58,30 L58,36 L32,72 L58,72 L58,78 L22,78 L22,72 L48,36 L22,36 Z"/>
+
+    <!-- "X" letterform -->
+    <path
+        android:fillColor="#A099F8"
+        android:pathData="
+            M62,30 L71,30 L81,48 L91,30 L100,30 L86,54 L100,78 L91,78 L81,60 L71,78 L62,78 L76,54 Z"/>
+</vector>

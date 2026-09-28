@@ -1,0 +1,27 @@
+# Gradle and Android build output
+.gradle/
+.kotlin/
+**/build/
+
+# Local SDK and machine-specific settings
+local.properties
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Signing material and secrets
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+
+# Native build output
+.cxx/
+.externalNativeBuild/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
